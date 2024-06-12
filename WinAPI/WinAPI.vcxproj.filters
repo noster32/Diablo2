@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="API FrameWork">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="API FrameWork\Utility">
+      <UniqueIdentifier>{a5f0054a-4d5a-48f8-be27-cee4397f9cfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Utility\Math">
+      <UniqueIdentifier>{8e10622c-49b4-49a2-aefd-74299b84df81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\PCH">
+      <UniqueIdentifier>{89f73a42-c6e4-45ea-b66a-63fdb975756d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\DesignPattern">
+      <UniqueIdentifier>{2b41fac0-c372-4048-a165-7c1ad0598ba0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\DesignPattern\Singleton">
+      <UniqueIdentifier>{dd439712-d9a6-44c6-9582-efb179f1a41f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\GameCore">
+      <UniqueIdentifier>{d31818a9-8566-4375-9613-e24875b46c7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{f774a363-6d4c-4a16-814e-31b09577fcc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Manager">
+      <UniqueIdentifier>{ca82977d-5706-4660-9768-dc9ff1ad6554}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Image">
+      <UniqueIdentifier>{3ade2f97-fca1-483c-94c8-5c1db157a66d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="API FrameWork\Scene">
+      <UniqueIdentifier>{3f077512-2fdb-4f42-abec-bc51a1630b14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map">
+      <UniqueIdentifier>{e62d4b21-0f7c-4012-863e-a0658f8fd466}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{550d09a8-626c-4c02-886c-0acbc8806fec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{a42139f1-032a-4824-88cc-6127f2ef9dc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy">
+      <UniqueIdentifier>{06736def-1aeb-45ae-a167-f74ca131ea8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{9f7a5313-7305-4f98-a8e1-3b4533035f4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map\Algorithm">
+      <UniqueIdentifier>{cfbfe96a-21de-4af5-af7f-f378f3f18342}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\CommonMonster">
+      <UniqueIdentifier>{d6e943d5-200e-43a7-9221-356e705d55e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Map\TestScene">
+      <UniqueIdentifier>{58212c78-85ab-430e-8099-8512f9660bc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy\Boss">
+      <UniqueIdentifier>{93af4a71-a27e-4974-97c1-308f58250ae2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C3DMatrix.cpp">
+      <Filter>API FrameWork\Utility\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="C3DVector.cpp">
+      <Filter>API FrameWork\Utility\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Stdafx.cpp">
+      <Filter>API FrameWork\PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="GameNode.cpp">
+      <Filter>API FrameWork\GameCore</Filter>
+    </ClCompile>
+    <ClCompile Include="IWindowMessage.cpp">
+      <Filter>API FrameWork\GameCore</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="GImage.cpp">
+      <Filter>API FrameWork\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="TempSoundManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>API FrameWork\Utility\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBar.cpp">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClCompile>
+    <ClCompile Include="MasterScene.cpp">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="VillageScene.cpp">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="PixelScene.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="PixelCollision.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="DungeonScene.cpp">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScene.cpp">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScene.cpp">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="OpeningScene.cpp">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="RouteFind.cpp">
+      <Filter>Map\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="testScene.cpp">
+      <Filter>Map\TestScene</Filter>
+    </ClCompile>
+    <ClCompile Include="CSound.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="CSoundMgr.cpp">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Balog.cpp">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="Combat.cpp">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="Orge.cpp">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="allTexture.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterImage.cpp">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClCompile>
+    <ClCompile Include="TileManager.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="DiabloMap.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>Enemy\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="BossSkill.cpp">
+      <Filter>Enemy\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemy\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="UI2.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerImg.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerSkill.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerStatUI.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Loading.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="WAYPOINT.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C3DMatrix.h">
+      <Filter>API FrameWork\Utility\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C3DVector.h">
+      <Filter>API FrameWork\Utility\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonMacroFunction.h">
+      <Filter>API FrameWork\Utility\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Stdafx.h">
+      <Filter>API FrameWork\PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="SingletonBase.h">
+      <Filter>API FrameWork\DesignPattern\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomFunction.h">
+      <Filter>API FrameWork\DesignPattern\Singleton</Filter>
+    </ClInclude>
+    <ClInclude Include="GameNode.h">
+      <Filter>API FrameWork\GameCore</Filter>
+    </ClInclude>
+    <ClInclude Include="IWindowMessage.h">
+      <Filter>API FrameWork\GameCore</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="GImage.h">
+      <Filter>API FrameWork\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="TempSoundManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>API FrameWork\Utility\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBar.h">
+      <Filter>API FrameWork\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="PixelScene.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="PixelCollision.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="MasterScene.h">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="VillageScene.h">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="DungeonScene.h">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScene.h">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="OpeningScene.h">
+      <Filter>API FrameWork\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="RouteFind.h">
+      <Filter>Map\Algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="testScene.h">
+      <Filter>Map\TestScene</Filter>
+    </ClInclude>
+    <ClInclude Include="CSound.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="CSoundMgr.h">
+      <Filter>API FrameWork\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Balog.h">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="Combat.h">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="Orge.h">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="allTexture.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterImage.h">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Enemy\CommonMonster</Filter>
+    </ClInclude>
+    <ClInclude Include="TileManager.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="DiabloMap.h">
+      <Filter>Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Enemy\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="BossSkill.h">
+      <Filter>Enemy\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Enemy\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="UI2.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerImg.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerSkill.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerStatUI.h">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Loading.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="WAYPOINT.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

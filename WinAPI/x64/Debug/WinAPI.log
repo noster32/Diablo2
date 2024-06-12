@@ -1,0 +1,1577 @@
+﻿  Stdafx.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(27,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(27,24): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(39,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(39,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(40,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(40,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(104,26): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(104,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(109,22): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(114,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(115,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(152,46): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Utils.h(152,56): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 'Stdafx.cpp'을(를) 컴파일하는 중)
+  
+  Animation.cpp
+  Balog.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(55,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Balog.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(56,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Balog.cpp'을(를) 컴파일하는 중)
+  
+  Boss.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(69,27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(268,68): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(277,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(277,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(278,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(278,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(304,31): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(305,32): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(371,31): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(372,32): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(590,65): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(590,30): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(605,101): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(605,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(611,100): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(611,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(617,95): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(617,33): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(623,101): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(623,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(629,101): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(629,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(635,101): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(635,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(641,100): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(641,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(647,74): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(647,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(656,27): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Boss.cpp(657,26): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Boss.cpp'을(를) 컴파일하는 중)
+  
+  BossSkill.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(32,39): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(31,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(31,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(66,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(66,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(109,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(109,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(114,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(114,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(119,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(119,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(124,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(124,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(129,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(129,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(134,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(134,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(139,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(139,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(144,117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(144,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(213,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(213,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(218,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(218,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(223,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(223,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(228,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(228,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(233,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(233,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(238,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(238,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(243,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(243,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(248,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(248,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(290,40): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(289,124): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(289,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(322,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\BossSkill.cpp(322,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/BossSkill.cpp'을(를) 컴파일하는 중)
+  
+  CSound.cpp
+  CSoundMgr.cpp
+  Combat.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(55,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(56,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Combat.cpp(145,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Combat.cpp(144,89): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Combat.cpp(151,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Combat.cpp(150,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Combat.cpp'을(를) 컴파일하는 중)
+  
+  DiabloMap.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(55,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DiabloMap.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(56,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DiabloMap.cpp'을(를) 컴파일하는 중)
+  
+  DungeonScene.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(55,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(56,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\DungeonScene.cpp(118,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\DungeonScene.cpp(117,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\DungeonScene.cpp(332,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\DungeonScene.cpp(331,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\DungeonScene.cpp(338,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\DungeonScene.cpp(337,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/DungeonScene.cpp'을(를) 컴파일하는 중)
+  
+  Enemy.cpp
+  FontManager.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\FontManager.cpp(48,40): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/FontManager.cpp'을(를) 컴파일하는 중)
+  
+  GImage.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\GImage.cpp(89,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GImage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\GImage.cpp(123,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GImage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\GImage.cpp(161,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GImage.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\GImage.cpp(202,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/GImage.cpp'을(를) 컴파일하는 중)
+  
+  GameNode.cpp
+  ImageManager.cpp
+  Inventory.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(16,93): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(16,82): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(17,90): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(17,80): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(18,92): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(18,82): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(19,88): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(19,78): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(20,91): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(20,80): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(21,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Inventory.cpp(21,78): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Inventory.cpp'을(를) 컴파일하는 중)
+  
+  Item.cpp
+  KeyManager.cpp
+  Loading.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Loading.cpp(149,32): warning C4244: '인수': 'float'에서 'const unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Loading.cpp'을(를) 컴파일하는 중)
+  
+  LoadingScene.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(8,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(8,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(9,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(9,108): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(10,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(10,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(11,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(11,108): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(12,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(12,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(13,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(13,108): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(14,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(14,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(15,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(15,108): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(16,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(16,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(18,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(18,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(19,117): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(19,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(20,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(20,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(21,117): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(21,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(22,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(22,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(23,117): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(23,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(24,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(24,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(25,117): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(25,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(27,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(27,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(28,117): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(28,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(29,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(29,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(30,117): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(30,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(31,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(31,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(32,117): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(32,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(33,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(33,105): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(34,117): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(34,106): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(36,124): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(36,113): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(37,125): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(37,114): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(38,124): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(38,113): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(39,125): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(39,114): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(40,124): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(40,113): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(41,125): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(41,114): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(42,124): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(42,113): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(43,125): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(43,114): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(45,130): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(45,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(46,131): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(46,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(47,130): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(47,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(48,131): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(48,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(49,130): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(49,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(50,131): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(50,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(51,130): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(51,119): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(52,131): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(52,120): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(66,126): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(66,115): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(67,127): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(67,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(68,126): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(68,115): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(69,127): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(69,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(70,126): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(70,115): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(71,127): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(71,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(72,126): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(72,115): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(73,127): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\LoadingScene.cpp(73,116): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/LoadingScene.cpp'을(를) 컴파일하는 중)
+  
+  MainGame.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(55,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(56,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MainGame.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  MasterScene.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MasterScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MasterScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MasterScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/MasterScene.cpp'을(를) 컴파일하는 중)
+  
+  MenuScene.cpp
+  Monster.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(55,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(56,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Monster.cpp'을(를) 컴파일하는 중)
+  
+  MonsterImage.cpp
+  OpeningScene.cpp
+  Orge.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(55,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Orge.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(56,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Orge.cpp'을(를) 컴파일하는 중)
+  
+  PixelCollision.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(11,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(11,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(14,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(29,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(33,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(41,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(46,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(46,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(55,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PixelCollision.cpp(55,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PixelCollision.cpp'을(를) 컴파일하는 중)
+  
+  PixelScene.cpp
+  Player.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(78,24): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(79,24): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(84,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(84,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(85,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(85,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(111,42): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(112,42): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(121,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(121,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(122,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(122,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(127,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(127,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(185,41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(186,41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(192,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(192,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(193,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(193,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(197,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(197,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(227,93): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(227,81): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(228,97): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(228,85): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(238,22): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(239,22): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(252,149): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(251,150): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(267,91): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(267,79): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(276,51): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(276,39): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(283,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(284,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(287,52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(287,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(302,146): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(301,147): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(333,35): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(344,105): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(344,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(345,101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(345,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(348,37): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(357,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(357,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(358,102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(358,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(361,38): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(368,105): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(368,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(369,105): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(369,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(372,38): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(385,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(385,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(388,40): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(415,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(415,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(416,101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(416,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(419,37): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(426,101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(426,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(427,101): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(427,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(430,37): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(443,40): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(444,40): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(526,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(526,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(527,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.cpp(527,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Player.cpp'을(를) 컴파일하는 중)
+  
+  PlayerImg.cpp
+  PlayerSkill.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(138,30): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(183,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(183,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(209,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(209,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(223,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(223,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(227,36): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(241,163): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(241,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(290,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(291,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(292,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(294,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(295,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(296,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(297,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(298,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(299,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(300,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(302,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(303,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(304,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(305,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(340,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(340,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(349,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(349,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(352,35): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(363,48): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(364,49): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(366,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(366,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(370,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(370,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(378,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(378,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(387,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(387,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(395,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(395,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(405,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(405,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(428,61): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(430,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(430,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(441,61): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(443,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(443,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(456,102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(456,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(459,33): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(467,102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(467,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(470,33): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(518,110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(518,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(521,49): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(535,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(535,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(538,43): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(554,113): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(554,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(555,113): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(555,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(556,113): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(556,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(557,113): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(557,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(558,113): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(558,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(562,114): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(562,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(563,114): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(563,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(564,114): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(564,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(565,114): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(565,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(566,114): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(566,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(570,44): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(581,116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(581,83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(582,116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(582,83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(583,116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(583,83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(584,116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(584,83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(585,116): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(585,83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(589,49): warning C4244: '=': 'ULONGLONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(614,23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(655,50): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(658,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(658,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(668,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\PlayerSkill.cpp(668,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerSkill.cpp'을(를) 컴파일하는 중)
+  
+  PlayerStatUI.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerStatUI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerStatUI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerStatUI.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/PlayerStatUI.cpp'을(를) 컴파일하는 중)
+  
+  ProgressBar.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\ProgressBar.cpp(45,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/ProgressBar.cpp'을(를) 컴파일하는 중)
+  
+  RouteFind.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(45,36): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(206,26): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(213,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(214,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(224,114): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(224,86): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(224,58): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(224,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(236,26): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(242,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(243,36): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(253,76): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(253,67): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(253,58): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\RouteFind.cpp(253,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/RouteFind.cpp'을(를) 컴파일하는 중)
+  
+  SceneManager.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+  Shop.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Shop.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Shop.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Shop.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/Shop.cpp'을(를) 컴파일하는 중)
+  
+  TempSoundManager.cpp
+  TileManager.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(150,37): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(153,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(228,78): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(228,39): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(501,60): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(518,60): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(1119,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(1121,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TileManager.cpp(1123,38): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TileManager.cpp'을(를) 컴파일하는 중)
+  
+  TimeManager.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\TimeManager.cpp(40,33): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/TimeManager.cpp'을(를) 컴파일하는 중)
+  
+  Timer.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  UI2.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI2.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/UI2.cpp'을(를) 컴파일하는 중)
+  
+  Utils.cpp
+  VillageScene.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/VillageScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/VillageScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/VillageScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/VillageScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\VillageScene.cpp(42,95): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/VillageScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\VillageScene.cpp(42,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/VillageScene.cpp'을(를) 컴파일하는 중)
+  
+  WAYPOINT.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WAYPOINT.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WAYPOINT.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WAYPOINT.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WAYPOINT.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\WAYPOINT.cpp(29,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WAYPOINT.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\WAYPOINT.cpp(29,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WAYPOINT.cpp'을(를) 컴파일하는 중)
+  
+  WinMain.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WinMain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(161,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WinMain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WinMain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Player.h(162,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WinMain.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\WinMain.cpp(131,19): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/WinMain.cpp'을(를) 컴파일하는 중)
+  
+  World.cpp
+  allTexture.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\allTexture.cpp(93,94): warning C4244: '인수': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/allTexture.cpp'을(를) 컴파일하는 중)
+  
+  testScene.cpp
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(55,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/testScene.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\WinAPI\Monster.h(56,46): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/testScene.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  WinAPI.vcxproj -> C:\Users\0127r\OneDrive\바탕 화면\Diablo2 모작\x64\Debug\WinAPI.exe
