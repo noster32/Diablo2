@@ -30,8 +30,10 @@ HRESULT TileManager::init(void)
     _pSelected.y = 0;
     _pTestSelect.x = 0;
     _pTestSelect.y = 0;
-    count = index = 0;
-    
+    count = 0;
+    index = 0;
+    page = 0; 
+
     return S_OK;
 }
 
@@ -149,8 +151,20 @@ void TileManager::DrawWorld(HDC hdc)
     sprintf_s(test, "x : (%d, %d)", _pSelected.x, _pSelected.y);
     TextOut(hdc, 0, 20, test, strlen(test));
     char test2[256];
-    sprintf_s(test2, "x : (%d, %d)", _pTestSelect.x, _pTestSelect.y);
+    sprintf_s(test2, "Q : 이전 E : 다음");
     TextOut(hdc, 0, 40, test2, strlen(test2));
+    char test6[256];
+    sprintf_s(test6, "방향키 : 카메라 움직임");
+    TextOut(hdc, 0, 60, test6, strlen(test6));
+    char test3[256];
+    sprintf_s(test3, "F1 : 타일 F2: 벽 F3: 투명벽 F4: 바닥");
+    TextOut(hdc, 0, 80, test3, strlen(test3));
+    char test4[256];
+    sprintf_s(test4, "F5 ~ F8 : 타일 종류 변경");
+    TextOut(hdc, 0, 100, test4, strlen(test4));
+    char test5[256];
+    sprintf_s(test5, "F12 : 메인메뉴");
+    TextOut(hdc, 0, 120, test5, strlen(test5));
 }
 
 void TileManager::DrawAlphaWall(HDC hdc, int playerLocationX)
@@ -563,6 +577,24 @@ void TileManager::DrawFloor(HDC hdc, int x, int y, int index)
 
 
 //MAP TOOL FUNCTION
+
+void TileManager::DefaultMapSetting(int worldX, int worldY)
+{
+    _pWorldSize.x = worldX;
+    _pWorldSize.y = worldY;
+
+    for (int wy = 0; wy < worldY; wy++)
+    {
+        for (int wx = 0; wx < worldX; wx++)
+        {
+            PushBackTileImage(0);
+            PushBackWallImage(0);
+            PushBackAlphaWallImage(1);
+            PushBackAlphaWall2Image(0);
+            PushBackFloorImage(1);
+        }
+    }
+}
 
 //Default Tile setting
 void TileManager::DefaultTile(int worldX, int worldY)
@@ -1016,6 +1048,24 @@ void TileManager::floorSelectInput(void)
 
 void TileManager::MapToolUpdate(void)
 {
+
+    if (KEYMANAGER->isOnceKeyDown(VK_HOME))
+    {
+        VilliageMapOutput();
+    }
+
+    if (KEYMANAGER->isOnceKeyDown('E'))
+    {
+        page++;
+    }
+    if (KEYMANAGER->isOnceKeyDown('Q'))
+    {
+        page--;
+        if (page <= 0) page = 0;
+    }
+
+    setTileY(page);
+
     if (KEYMANAGER->isStayKeyDown(VK_F1))
     {
         _setImageMode = TileEdit;

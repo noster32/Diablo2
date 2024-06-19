@@ -6,21 +6,19 @@ HRESULT testScene::init(void)
 	_cameraCenter.x = 640;
 	_cameraCenter.y = 360;
 
-	//_dia = new DiabloMap;
-	//_dia->init();
-	
-	w = new World;
-	w->init();
+	TILEMANAGER->init();
+	TILEMANAGER->MapSetting(TechTile);
+	TILEMANAGER->DefaultMapSetting(20, 15);
+	TILEMANAGER->SetWorldSize(20, 15);
+	TILEMANAGER->InsertWorldInfo();
 
 	return S_OK;
 }
 
 void testScene::release(void)
 {
-	//_dia->release();
-	//SAFE_DELETE(_dia);
-	w->release();
-	SAFE_DELETE(w);
+
+	TILEMANAGER->release();
 }
 
 void testScene::update(void)
@@ -28,15 +26,23 @@ void testScene::update(void)
 	keyBind();
 	RECT rc = RectMake(0, 0, 0, 0);
 	Point2D temp = Point2D(0, 0);
-	//_dia->update(_camera, rc, temp);
-	w->update(_camera);
+
+	TILEMANAGER->update(_camera);
+	TILEMANAGER->MapToolUpdate();
+
+	if (KEYMANAGER->isOnceKeyDown(VK_F12))
+	{
+		SCENEMANAGER->changeScene("메인화면");
+	}
 }
 
 void testScene::render(void)
 {
 	cameraUpdate();
-	//_dia->render(getMemDC());
-	w->render(getMemDC(), 0);
+
+	TILEMANAGER->DrawWorld(getMemDC());
+	TILEMANAGER->DrawAlphaWall(getMemDC(), 0);
+	TILEMANAGER->MapToolRender(getMemDC());
 }
 
 void testScene::cameraUpdate(void)

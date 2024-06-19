@@ -21,7 +21,7 @@ class TileManager : public SingletonBase <TileManager>
 {
 private:
 
-	int count, index;
+	int count, index, page;
 
 	TileImage _setTileImage;
 	ImageEditMode _setImageMode;
@@ -175,6 +175,7 @@ public:
 	void release(void);
 	void update(Point2D camera);
 
+	void DefaultMapSetting(int worldX, int worldY);
 	void DefaultTile(int worldX, int worldY);
 	void DefaultWall(int worldX, int worldY);
 	void DefaultAlphaWall(int worldX, int worldY);
